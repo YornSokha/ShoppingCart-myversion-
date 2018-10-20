@@ -5,8 +5,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static int orderNo = 4;
-    private static ArrayList<Product> products = new ArrayList<>();
+    private static int orderNo = 3;    private static ArrayList<Product> products = new ArrayList<>();
 
     public static void main(String[] args) {
 
