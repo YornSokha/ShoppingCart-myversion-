@@ -5,7 +5,11 @@ import java.util.Scanner;
 
 public class Main {
 
+<<<<<<< .mine
     private static int orderNo = 2;
+=======
+    private static int orderNo = 3;
+>>>>>>> .theirs
     private static ArrayList<Product> products = new ArrayList<>();
 
     public static void main(String[] args) {
